@@ -3,7 +3,7 @@
 ## Steps to run code:
 1. Need Visual Studio Code 2017 or 2019.
 2. Open new window and open new terminal
-3. Clone code using command ##git clone https://github.com/Kbhatti0032/FirstReactApp.git
+3. Clone code using command git clone https://github.com/Kbhatti0032/FirstReactApp.git
 4. Write npm install
 5. Write npm start
 
